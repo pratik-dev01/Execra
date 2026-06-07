@@ -105,8 +105,7 @@ The SvelteKit dashboard provides a futuristic UI showing real-time telemetry, li
 | 🤖 **Generic AI** | Copy-pasted answers without context | Understands exactly what *you* are doing |
 | 📷 **Physical Tasks** | No AI help for real-world work | Camera-based real-world guidance |
 | 🔁 **Re-explaining AI** | Repeat yourself each session | Remembers full context of current session |
-
----
+--=
 
 ## ✨ Core Capabilities
 
